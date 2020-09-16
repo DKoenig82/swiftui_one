@@ -4,4 +4,4 @@ News App created with SwiftUI
 
 ## Preview
 
-![alt text](https://github.com/DKoenig82/news_app_swiftui/blob/main/news_app.png)
+![alt text](https://github.com/DKoenig82/swiftui_one/blob/main/news_app_swiftui-main/news_app.png)
