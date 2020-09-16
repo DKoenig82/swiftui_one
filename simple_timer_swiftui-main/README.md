@@ -4,4 +4,4 @@ Simple Timer App, starts Timer when starting the App. It is more a case study. M
 
 ## Preview
 
-![alt text](https://github.com/DKoenig82/simple_timer_swiftui/blob/main/demoTimer.png)
+![alt text](https://github.com/DKoenig82/swiftui_one/blob/main/simple_timer_swiftui-main/demoTimer.png)
